@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Order Summary](https://github.com/sammy8825/Order-summary)
-- Live Site URL: [Order Summary](https://your-live-site-url.com)
+- Live Site URL: [Order Summary](https://elastic-shaw-9b2a1c.netlify.app/)
 
 ## My process
 
